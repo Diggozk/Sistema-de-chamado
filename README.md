@@ -1,7 +1,7 @@
 # Sistema-de-chamado
-==
+
 Projeto desenvolvido para gestão de chamados técnicos
-==
+
 ## Técnologias
 - Node.js (Criação da API)
 - Fastify (Criação do server)
