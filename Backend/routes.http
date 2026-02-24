@@ -1,0 +1,26 @@
+POST http://127.0.0.1:3003/chamados
+Content-Type: application/json
+
+{
+    "title": "Computador não funciona",
+    "description": "Meu computador pegou chuva"
+}
+
+###
+
+GET http://127.0.0.1:3003/chamados/
+
+###
+
+PUT http://127.0.0.1:3003/chamados/db0e9b76-2fca-46a9-b9f2-b01672dd4446
+Content-Type: application/json
+
+{
+    "title": "Computador arrumado",
+    "description": "Meu computador pegou chuva"
+}
+
+###
+
+DELETE  http://127.0.0.1:3003/chamados/db0e9b76-2fca-46a9-b9f2-b01672dd4446
+

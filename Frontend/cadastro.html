@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registro de chamados</title>
+    <link href="style.css" rel="stylesheet"
+</head>
+<body>
+    <div class="cadastro">
+        <h1>Registre seu chamado</h1>
+            <div>
+                <form id="registrarchamados" method="post">
+                    <input type="text" id="titulo" placeholder="Digite um titulo ao seu chamado" required><br>
+                    <input type="text" id="descricao" placeholder="Descreva o que aconteceu">
+                    <br>
+                    <button onclick="registrar()">Registrar</button>
+                </form>
+            </div>
+            <br>
+            <a href="index.html">
+                <button id="voltar">Voltar</button>
+            </a>
+    </div>
+</body>
+  <script src="script.js"></script>
+</html>
