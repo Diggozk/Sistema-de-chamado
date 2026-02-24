@@ -19,6 +19,15 @@ Projeto desenvolvido para gestão de chamados técnicos
 
 ## Preview
 
+### Dashboard
+![Dashboard](assets/Dashboard.png)
+
+### Pagina de registro
+![Registro](assets/Registro.png)
+
+### Pagina de edição
+![Edição](assets/Edição.png)
+
 
 ## Como executar
 ```bash
