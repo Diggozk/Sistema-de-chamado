@@ -20,13 +20,13 @@ Projeto desenvolvido para gestão de chamados técnicos
 ## Preview
 
 ### Dashboard
-![Dashboard](assets/Dashboard.png)
+![Dashboard](Assets/Dashboard.png)
 
 ### Pagina de registro
-![Registro](assets/Registro.png)
+![Registro](Assets/Registro.png)
 
 ### Pagina de edição
-![Edição](assets/Edição.png)
+![Edição](Assets/Edição.png)
 
 
 ## Como executar
